@@ -1,8 +1,6 @@
 Hey Archit
 yo
 wassup
-<<<<<<< HEAD
 ready
-=======
 done
->>>>>>> origin/main
+
